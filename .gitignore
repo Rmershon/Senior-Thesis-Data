@@ -1,0 +1,11 @@
+
+*.csv
+*.csv
+honeypot_data/content_polluters.txt
+honeypot_data/content_polluters_followings.txt
+honeypot_data/content_polluters_tweets.txt
+honeypot_data/legitimate_users_followings.txt
+honeypot_data/legitimate_users.txt
+created_data/.DS_Store
+honeypot_data/legitimate_users_tweets.txt
+honeypot_data/social_honeypot_icwsm_2011.pdf
